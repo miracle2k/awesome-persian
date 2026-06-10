@@ -8,6 +8,7 @@ A curated list of awesome resources to learn the Persian language (sometimes ref
 - [Grammar](#grammar)
 - [Children](#children)
 - [Courses](#courses)
+- [Apps](#apps)
 - [Other](#other)
 - [Dictionaries](#dictionaries)
 - [Communities](#communities)
@@ -39,6 +40,11 @@ A curated list of awesome resources to learn the Persian language (sometimes ref
 - [Chai and Conversation](https://www.chaiandconversation.com/) - A thoughtfully put together audio course
 
 
+## Apps
+
+- [Learn Farsi: Real Persian](https://learn-persian.pages.dev/?utm_source=awesome-persian&utm_medium=organic&utm_campaign=resource-outreach) - A beginner-friendly app for colloquial spoken Persian, with romanisation, Persian script, audio, quizzes, handwriting practice, and cultural notes.
+
+
 ## Other
 
 - [Ali Jahanshiri's Personal Website](http://www.jahanshiri.ir/)
@@ -53,5 +59,4 @@ A curated list of awesome resources to learn the Persian language (sometimes ref
 ## Communities
 
 - [Reddit: r/farsi](https://www.reddit.com/r/farsi/) - Fairly active and friendly group on reddit
-
 
