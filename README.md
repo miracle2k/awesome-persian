@@ -37,6 +37,7 @@ A curated list of awesome resources to learn the Persian language (sometimes ref
 - [Persian Language Online](https://www.persianlanguageonline.com/)
 - [PersianPod101](https://www.persianpod101.com/)
 - [Chai and Conversation](https://www.chaiandconversation.com/) - A thoughtfully put together audio course
+- [Finglish](https://learnfinglish.com) - Everyday spoken Persian in English letters, with audio on every word. Module 1 is free.
 
 
 ## Other
